@@ -20,9 +20,9 @@ I love working with **HTML, CSS, and JavaScript** to build amazing projects. Cur
 ---
 
 ## 🚀 My Skills  
-- **HTML:** ![40%](https://progress-bar.dev/40)  
-- **CSS:** ![20%](https://progress-bar.dev/20)  
-- **JavaScript:** ![10%](https://progress-bar.dev/10)  
+- **HTML:** ████████████░░░░░░░░░░░ 40%  
+- **CSS:** ██████░░░░░░░░░░░░░░░░ 20% 
+- **JavaScript:** ███░░░░░░░░░░░░░░░░░░ 10%
 
 ---
 
