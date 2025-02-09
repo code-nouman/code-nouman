@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi there! 👋 I'm Muhammad Nouman Ali  
 
-<!--
-**code-nouman/code-nouman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am passionate about **Frontend Development**, working with **HTML, CSS, and JavaScript** to build self-made projects. I am currently improving my skills and building my **portfolio website**.  
 
-Here are some ideas to get you started:
+### 🛠 Tools & Technologies I Use  
+- **Languages:** HTML, CSS, JavaScript  
+- **Software & Tools:** VS Code, Git  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 My Skills  
+- **HTML:** 40%  
+- **CSS:** 20%  
+- **JavaScript:** 10%  
+
+### 📌 Current Projects  
+- Building my **portfolio website**  
+- Learning advanced **JavaScript**  
+
+### 📫 Connect with Me  
+[GitHub Profile](https://github.com/your-username)  
+
+---
+🔗 _“Stay coding and keep building amazing projects!”_
