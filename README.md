@@ -20,9 +20,9 @@ I love working with **HTML, CSS, and JavaScript** to build amazing projects. Cur
 ---
 
 ## 🚀 My Skills  
-- **HTML:** ████████████░░░░░░░░░░░ 40%  
-- **CSS:** ██████░░░░░░░░░░░░░░░░ 20% 
-- **JavaScript:** ███░░░░░░░░░░░░░░░░░░ 10%
+✔ **HTML:** Beginner Level (Improving daily)  
+✔ **CSS:** Learning layout techniques (Flexbox & Grid)  
+✔ **JavaScript:** Basic knowledge (Working on small projects)  
 
 ---
 
